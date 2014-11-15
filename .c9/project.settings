@@ -2,7 +2,19 @@
     "run": {
         "@path": "/.c9/runners",
         "configs": {
+<<<<<<< HEAD
             "json()": {},
+=======
+            "json()": {
+                "Ruby on Rails": {
+                    "runner": "Ruby on Rails (Rails 4.0 + Ruby 2.1)",
+                    "command": "",
+                    "name": "Ruby on Rails",
+                    "default": true,
+                    "debug": true
+                }
+            },
+>>>>>>> e44528bbe7d6f12cff31d9a56d32aa49f6e691c0
             "@inited": "true"
         }
     },
